@@ -79,24 +79,4 @@ const Bank: React.VFC = () => {
   );
 };
 
-// const Input = styled.div`
-//   display: flex;
-//   flex-direction: column;
-//   align-items: center;
-
-//   span {
-//       margin-left: 4px;
-//   }
-// `
-
-// const Button = styled.button`
-//   display: flex;
-//   margin-top: 8px;
-
-//   button {
-//       margin-left: 4px;
-//       margin-right: 4px;
-//   }
-// `
-
 export default Bank
